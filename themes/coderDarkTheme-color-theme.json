@@ -59,10 +59,19 @@
 		
 		// Editor Colors - Selection
 		"editor.selectionBackground": "#6b6b6b",
-		"editor.selectionHighlightBackground": "#848484"
+		"editor.selectionHighlightBackground": "#848484",
 		
 
-		
+		// Integrated Terminal Colors
+		"terminal.background": "#1c1c1c",
+		"terminal.foreground": "#ededed",
+		"terminal.ansiWhite": "#dcdcdc",
+
+		// Debug
+		"debugToolBar.background": "#636262"
+
+
+
 
 
 	},
