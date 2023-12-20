@@ -1,10 +1,70 @@
 {
 	"name": "coderDarkTheme",
+	"type": "dark",
 	"colors": {
-		"editor.background": "#263238",
+
+		// Activity Bar
+		"activityBar.background": "#1c1c1c",
+		"activityBar.border": "#8a8989",
+		"activityBar.foreground": "#8a8989dc",
+		"activityBarBadge.foreground": "#ffffffea",
+		"activityBarBadge.background": "#015d9af3",
+		
+		// Button Color
+		"button.background": "#47627c",
+		"button.foreground": "#fffdfd",
+		// "button.hoverBackground": "",
+
+		// Drop Down
+		"dropdown.background": "#47627c",
+		"dropdown.border": "#626262",
+		"dropdown.foreground": "#ffffffe5",
+
+		// Input Control
+		"input.background": "#47627c",
+		"input.border": "#757575dc",
+		"input.foreground": "#ffffffeb",
+		"input.placeholderForeground": "#757575dc",
+		"inputOption.activeBorder": "#d1c367",
+		"inputValidation.errorBackground": "#b75959ed",
+		"inputValidation.errorBorder": "#cc6f6f",
+		"inputValidation.infoBackground": "#757575dc",
+		"inputValidation.infoBorder": "#ffffffeb",
+		"inputValidation.warningBorder": "#cc6f6f",
+
+		// Scroll Bar Control
+		
+		
+		// Badges
+
+
+		// Progress Bar
+
+
+		// Lists and Trees
+
+
+		// Side Bar
+		"sideBar.background": "#8a8989dc",
+		"sideBarTitle.foreground": "#ffffff",
+		"sideBar.border": "#c0bfbfdc",
+		"sideBarSectionHeader.background": "#626262",
+		"sideBarSectionHeader.foreground": "#cfcfcf",
+
+		// Editor Colors
+		"editor.background": "#75b7cf",
 		"editor.foreground": "#eeffff",
-		"activityBarBadge.background": "#007acc",
-		"sideBarTitle.foreground": "#bbbbbb"
+		"editorLineNumber.foreground": "#84dee1",
+		"editorCursor.foreground": "#ffffff",
+		
+		// Editor Colors - Selection
+		"editor.selectionBackground": "#6b6b6b",
+		"editor.selectionHighlightBackground": "#848484"
+		
+
+		
+
+
 	},
 	"tokenColors": [
 		{
