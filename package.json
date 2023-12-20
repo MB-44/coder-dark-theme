@@ -17,5 +17,11 @@
         "path": "./themes/coderDarkTheme-color-theme.json"
       }
     ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MB-44/coder-dark-theme"
   }
+
+
 }
