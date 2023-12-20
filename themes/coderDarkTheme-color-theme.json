@@ -69,11 +69,7 @@
 
 		// Debug
 		"debugToolBar.background": "#636262"
-
-
-
-
-
+	
 	},
 	"tokenColors": [
 		{
