@@ -1,4 +1,4 @@
-# coder-dark-theme README
+# Coder-Dark-Theme README
 
 ## Working with Markdown
 
