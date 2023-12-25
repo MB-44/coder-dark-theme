@@ -45,7 +45,7 @@
 
 
 		// Side Bar
-		"sideBar.background": "#8a8989dc",
+		"sideBar.background": "#292929",
 		"sideBarTitle.foreground": "#ffffff",
 		"sideBar.border": "#c0bfbfdc",
 		"sideBarSectionHeader.background": "#626262",
