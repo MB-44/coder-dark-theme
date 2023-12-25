@@ -4,9 +4,9 @@
 	"colors": {
 
 		// Activity Bar
-		"activityBar.background": "#1c1c1c",
-		"activityBar.border": "#8a8989",
-		"activityBar.foreground": "#8a8989dc",
+		"activityBar.background": "#141414",
+		// "activityBar.border": "#8a8989",
+		"activityBar.foreground": "#8a8989f5",
 		"activityBarBadge.foreground": "#ffffffea",
 		"activityBarBadge.background": "#015d9af3",
 		
@@ -16,9 +16,9 @@
 		// "button.hoverBackground": "",
 
 		// Drop Down
-		"dropdown.background": "#47627c",
+		"dropdown.background": "#181d21",
 		"dropdown.border": "#626262",
-		"dropdown.foreground": "#ffffffe5",
+		"dropdown.foreground": "#ffffff",
 
 		// Input Control
 		"input.background": "#47627c",
@@ -45,11 +45,11 @@
 
 
 		// Side Bar
-		"sideBar.background": "#292929",
+		"sideBar.background": "#1a1a1a",
 		"sideBarTitle.foreground": "#ffffff",
-		"sideBar.border": "#c0bfbfdc",
-		"sideBarSectionHeader.background": "#626262",
-		"sideBarSectionHeader.foreground": "#cfcfcf",
+		// "sideBar.border": "#c0bfbfdc",
+		"sideBarSectionHeader.background": "#2f2f2f",
+		"sideBarSectionHeader.foreground": "#ffffffe0",
 
 		// Editor Colors
 		"editor.background": "#161818",
