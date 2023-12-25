@@ -14,7 +14,7 @@
 		"button.background": "#47627c",
 		"button.foreground": "#fffdfd",
 		// "button.hoverBackground": "",
-
+	
 		// Drop Down
 		"dropdown.background": "#181d21",
 		"dropdown.border": "#626262",
@@ -76,7 +76,7 @@
 
 		// Debug
 		"debugToolBar.background": "#636262"
-	
+
 	},
 	"tokenColors": [
 		{
