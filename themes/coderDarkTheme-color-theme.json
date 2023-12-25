@@ -52,7 +52,7 @@
 		"sideBarSectionHeader.foreground": "#cfcfcf",
 
 		// Editor Colors
-		"editor.background": "#75b7cf",
+		"editor.background": "#161818",
 		"editor.foreground": "#eeffff",
 		"editorLineNumber.foreground": "#84dee1",
 		"editorCursor.foreground": "#ffffff",
