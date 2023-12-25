@@ -21,7 +21,7 @@
 		"dropdown.foreground": "#ffffff",
 
 		// Input Control
-		"input.background": "#47627c",
+		"input.background": "#272727",
 		"input.border": "#757575dc",
 		"input.foreground": "#ffffffeb",
 		"input.placeholderForeground": "#757575dc",
