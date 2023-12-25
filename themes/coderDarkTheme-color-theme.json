@@ -61,11 +61,18 @@
 		"editor.selectionBackground": "#6b6b6b",
 		"editor.selectionHighlightBackground": "#848484",
 		
+		// bracket matches
+		"editorBracketMatch.background": "#a5c932",
+		"editorBracketMatch.border": "#d5d2d2",
 
 		// Integrated Terminal Colors
 		"terminal.background": "#1c1c1c",
 		"terminal.foreground": "#ededed",
 		"terminal.ansiWhite": "#dcdcdc",
+
+		// errors and warnings
+		"editorError.foreground": "#ff2020c5",
+		"editorError.border": "#dd4e4e",
 
 		// Debug
 		"debugToolBar.background": "#636262"
