@@ -3,7 +3,7 @@
   "publisher": "Menath",
   "displayName": "coderDark",
   "description": "Provides Elevate your coding experince with the Code Dark theme extension for Visual Studio Code.",
-  "version": "0.0.10",
+  "version": "0.0.11",
   "engines": {
     "vscode": "^1.85.0"
   },
