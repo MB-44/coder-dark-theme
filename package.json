@@ -25,13 +25,9 @@
       {
         "label": "dark+",
         "uiTheme": "vs-dark",
-        "path": "./themes/dark+/dark-plus-theme.json"
-      },
-      {
-        "label": "dark+g",
-        "uiTheme": "vs-dark",
-        "path": "./themes/dark+g/dark-grey-theme.json"
+        "path": "./themes/dark-plus-theme.json"
       }
+      
     ]
   },
   "repository": {
