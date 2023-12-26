@@ -1,7 +1,7 @@
 {
   "name": "coder-dark-theme",
   "publisher": "Menath",
-  "displayName": "coderDarkTheme",
+  "displayName": "coderDark",
   "description": "Provides Elevate your coding experince with the Code Dark theme extension for Visual Studio Code.",
   "version": "0.0.10",
   "engines": {
@@ -23,9 +23,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "coderDarkTheme",
+        "label": "dark+",
         "uiTheme": "vs-dark",
-        "path": "./themes/coderDarkTheme-color-theme.json"
+        "path": "./themes/dark+/dark-plus-theme.json"
+      },
+      {
+        "label": "dark+g",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark+g/dark-grey-theme.json"
       }
     ]
   },
