@@ -3,9 +3,9 @@
 	"type": "dark",
 	"colors": {
 		// activity bar
-		"activityBar.background": "#141414",
-		"activityBar.foreground": "#8a8989f5",
-		"activityBarBadge.foreground": "#ffffffea",
+		"activityBar.background": "#323332",
+		"activityBar.foreground": "#c7c7c7",
+		"activityBarBadge.foreground": "#e3e1e1",
 		"activityBarBadge.background": "#015d9af3",
 		
 		// button
@@ -13,7 +13,7 @@
 		"button.foreground": "#fffdfd",
 		
 		// drop down
-		"dropdown.background": "#181d21",
+		"dropdown.background": "#424242",
 		"dropdown.border": "#626262",
 		"dropdown.foreground": "#ffffff",
 
@@ -39,9 +39,9 @@
 		"sideBarSectionHeader.foreground": "#ffffffe0",
 		
 		// editor
-		"editor.background": "#161818",
+		"editor.background": "#292828",
 		"editor.foreground": "#eeffff",
-		"editorLineNumber.foreground": "#84dee1",
+		"editorLineNumber.foreground": "#f5f5f5",
 		"editorCursor.foreground": "#ffffff",
 		
 		// editor - selection
