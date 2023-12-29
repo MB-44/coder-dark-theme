@@ -18,8 +18,7 @@ Enhance your coding experience with the sleek and stylish Your Theme Name for Vi
 
 ## Screenshots
 
-Include screenshots of your theme here to showcase its appearance.
-
+![Alt text](screenshots/css-ss.png)
 ## Customization
 
 If your theme supports customization, provide instructions on how users can customize it.
