@@ -2,24 +2,29 @@
 	"name": "coder Dark+",
 	"type": "dark",
 	"colors": {
-
+		// activity bar
 		"activityBar.background": "#141414",
 		"activityBar.foreground": "#8a8989f5",
 		"activityBarBadge.foreground": "#ffffffea",
 		"activityBarBadge.background": "#015d9af3",
 		
+		// button
 		"button.background": "#47627c",
 		"button.foreground": "#fffdfd",
 		
+		// drop down
 		"dropdown.background": "#181d21",
 		"dropdown.border": "#626262",
 		"dropdown.foreground": "#ffffff",
 
+		// input - textbox
 		"input.background": "#272727",
 		"input.border": "#757575dc",
 		"input.foreground": "#ffffffeb",
 		"input.placeholderForeground": "#757575dc",
 		"inputOption.activeBorder": "#d1c367",
+		
+		// input - error
 		"inputValidation.errorBackground": "#b75959ed",
 		"inputValidation.errorBorder": "#cc6f6f",
 		"inputValidation.infoBackground": "#757575dc",
@@ -27,36 +32,35 @@
 		"inputValidation.warningBorder": "#cc6f6f",
 
 		
-		
-		
-
-		
-
-		
-
+		// side bar
 		"sideBar.background": "#1a1a1a",
 		"sideBarTitle.foreground": "#ffffff",
 		"sideBarSectionHeader.background": "#2f2f2f",
 		"sideBarSectionHeader.foreground": "#ffffffe0",
-
+		
+		// editor
 		"editor.background": "#161818",
 		"editor.foreground": "#eeffff",
 		"editorLineNumber.foreground": "#84dee1",
 		"editorCursor.foreground": "#ffffff",
 		
+		// editor - selection
 		"editor.selectionBackground": "#6b6b6b",
 		"editor.selectionHighlightBackground": "#848484",
-		
+		// editor - bracket
 		"editorBracketMatch.background": "#a5c932",
 		"editorBracketMatch.border": "#d5d2d2",
 
+		// editor - error
+		"editorError.foreground": "#ff2020c5",
+		"editorError.border": "#dd4e4e",
+		
+		// terminal 
 		"terminal.background": "#1c1c1c",
 		"terminal.foreground": "#ededed",
 		"terminal.ansiWhite": "#dcdcdc",
 
-		"editorError.foreground": "#ff2020c5",
-		"editorError.border": "#dd4e4e",
-
+		// debug bar
 		"debugToolBar.background": "#636262"
 
 	},

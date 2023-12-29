@@ -23,9 +23,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "dark+",
+        "label": "Dark Plus",
         "uiTheme": "vs-dark",
-        "path": "./themes/dark-plus-theme.json"
+        "path": "./themes/dark-plus/dark-plus-theme.json"
+      },
+      {
+        "label": "Dark Grey",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark-grey/dark-grey-theme.json"
       }
       
     ]
