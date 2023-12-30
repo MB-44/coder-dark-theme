@@ -19,26 +19,14 @@ Enhance your coding experience with the sleek and stylish Your Theme Name for Vi
 ## Screenshots
 
 ![Alt text](screenshots/css-ss.png)
-## Customization
-
-If your theme supports customization, provide instructions on how users can customize it.
 
 ## Issues
 
-If you find any issues or have suggestions, please [open an issue](https://github.com/yourusername/your-theme-repo/issues).
+If you find any issues or have suggestions, please [open an issue](https://github.com/MB-44/coder-dark-theme/issues).
 
 ## Contributing
 
-Contributions are welcome! Please check the [contributing guidelines](CONTRIBUTING.md).
+Contributions are welcome! 
 
-## License
 
-This project is licensed under the [License Name] License - see the [LICENSE.md](LICENSE.md) file for details.
-
-## Acknowledgments
-
-Mention any credits or acknowledgments here.
-
----
-
-**Enjoy your coding with Your Them
+**Enjoy your coding with coderDark
