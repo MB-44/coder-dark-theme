@@ -61,7 +61,11 @@
 		"terminal.ansiWhite": "#dcdcdc",
 
 		// debug bar
-		"debugToolBar.background": "#636262"
+		"debugToolBar.background": "#636262",
+
+		// panel - terminal
+		"panel.background": "#3c3d3c",
+		"panelTitle.activeBorder": "#353635"
 
 	},
 	"tokenColors": [
