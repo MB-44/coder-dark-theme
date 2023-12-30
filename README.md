@@ -10,14 +10,9 @@ Enhance your coding experience with the sleek and stylish Your Theme Name for Vi
 3. Click **Install**
 4. Choose your color theme with `File → Preferences → Color Theme → Dark Plus -> Dark Grey`
 
-## Features
-
-- Feature 1
-- Feature 2
-- ...
-
 ## Screenshots
 
+1. CSS 
 ![Alt text](screenshots/css-ss.png)
 
 ## Issues
