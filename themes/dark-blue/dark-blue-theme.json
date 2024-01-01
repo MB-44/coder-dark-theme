@@ -13,8 +13,8 @@
 		"button.foreground": "#fffdfd",
 		
 		// drop down
-		"dropdown.background": "#424242",
-		"dropdown.border": "#626262",
+		"dropdown.background": "#2d336b",
+		"dropdown.border": "#5f6cc2",
 		"dropdown.foreground": "#ffffff",
 
 		// input - textbox
