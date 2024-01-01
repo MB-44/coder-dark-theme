@@ -32,7 +32,13 @@
         "label": "Dark Grey",
         "uiTheme": "vs-dark",
         "path": "./themes/dark-grey/dark-grey-theme.json"
+      },
+      {
+        "label": "Dark Blue",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark-blue/dark-blue-theme.json"
       }
+
     ]
   },
   "repository": {
